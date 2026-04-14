@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "Morgan Hill Station",
+        "Year_2010": 105,
+        "Year_2011": 106,
+        "Year_2012": 113,
+        "Year_2013": 133,
+        "Year_2014": 149,
+        "Year_2015": 172,
+        "Year_2016": 183,
+        "Year_2017": 183,
+        "Year_2018": 237,
+        "Year_2019": 251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6505307,
+          37.129696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "San Martin Station",
+        "Year_2010": 45,
+        "Year_2011": 43,
+        "Year_2012": 43,
+        "Year_2013": 49,
+        "Year_2014": 57,
+        "Year_2015": 71,
+        "Year_2016": 77,
+        "Year_2017": 69,
+        "Year_2018": 87,
+        "Year_2019": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6104411,
+          37.0857956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "Gilroy Transit Center",
+        "Year_2010": 119,
+        "Year_2011": 113,
+        "Year_2012": 116,
+        "Year_2013": 129,
+        "Year_2014": 140,
+        "Year_2015": 153,
+        "Year_2016": 178,
+        "Year_2017": 173,
+        "Year_2018": 252,
+        "Year_2019": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5665421,
+          37.0037721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "Morgan Hill Station",
+        "Year_2010": 105,
+        "Year_2011": 106,
+        "Year_2012": 113,
+        "Year_2013": 133,
+        "Year_2014": 149,
+        "Year_2015": 172,
+        "Year_2016": 183,
+        "Year_2017": 183,
+        "Year_2018": 237,
+        "Year_2019": 251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6505307,
+          37.129696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "San Martin Station",
+        "Year_2010": 45,
+        "Year_2011": 43,
+        "Year_2012": 43,
+        "Year_2013": 49,
+        "Year_2014": 57,
+        "Year_2015": 71,
+        "Year_2016": 77,
+        "Year_2017": 69,
+        "Year_2018": 87,
+        "Year_2019": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6104411,
+          37.0857956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "StationName": "Gilroy Transit Center",
+        "Year_2010": 119,
+        "Year_2011": 113,
+        "Year_2012": 116,
+        "Year_2013": 129,
+        "Year_2014": 140,
+        "Year_2015": 153,
+        "Year_2016": 178,
+        "Year_2017": 173,
+        "Year_2018": 252,
+        "Year_2019": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5665421,
+          37.0037721
+        ]
+      }
+    }
+  ]
+}
